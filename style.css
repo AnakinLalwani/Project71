@@ -1,0 +1,86 @@
+
+
+#imagesofschool {
+	margin:-2vw 0vw 0vw 0vw;
+	z-index:-1;
+	left: 0;
+	right: 0;
+	padding: 5vw 0vw;
+}
+.big {
+	height: 40vw;
+	width: auto;
+}
+#nav {
+	background: black;
+	color: black; 
+}
+li {
+	color: white;
+}
+#welcome {
+	margin-top: -3vw;
+}
+.text1 {
+	padding: 5vw 17vw;
+	font-size: 2vw;
+}
+.text {
+	padding: 2vw;
+}
+#pageheader h1 {
+	text-align: center;
+}
+.travel_MyDiv {
+	float: left;
+	width: 32%;
+	margin: 0px 0.5vw;
+}
+.travel_MyDiv iframe {
+	width: 100%
+}
+#achievements {
+	margin-top: 55vw
+}
+h1 {
+	text-align: center;
+}
+.achievment_top {
+	font-size: 2vw;
+	padding:6px 20px;
+	border-radius: 10px;
+	margin: 0px 15% 15px;
+	width: 70%;
+	display: inline-block;
+}
+#achievement1, #achievement2, #achievement3 {
+	width: 70%;
+	margin: 0px 15% 15px;
+}
+.achievment_top i {
+	float: right;
+}
+.about_li img { 
+	border-radius: 25px;
+}
+.about_li p{
+	margin-top: 7px;
+}
+.about_li h4 {
+	border-bottom: 1px solid white;
+}
+.about_li {
+	margin: 15px 23%;
+}
+.img_modal {
+	display: inline-block;
+}
+.modal-body {
+	text-align: center;
+}
+.modal-content {
+	margin-top: 100px;
+}
+.img-responsive {
+	height: auto;
+}
